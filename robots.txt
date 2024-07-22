@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olortheut.github.io/sitemap
+Sitemap: https://olortheut.github.io/app/sitemap
+Sitemap: https://olortheut.github.io/assets/sitemap
+Sitemap: https://olortheut.github.io/css/sitemap
+Sitemap: https://olortheut.github.io/includes/sitemap
+Sitemap: https://olortheut.github.io/item/sitemap
+Sitemap: https://olortheut.github.io/src/sitemap
